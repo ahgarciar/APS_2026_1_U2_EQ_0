@@ -1,0 +1,11 @@
+C:\Users\Galek\source\repos\APS_2026_1_U2_EQ_0\APS_2026_1_U2_EQ_0\bin\Debug\APS_2026_1_U2_EQ_0.exe.config
+C:\Users\Galek\source\repos\APS_2026_1_U2_EQ_0\APS_2026_1_U2_EQ_0\bin\Debug\APS_2026_1_U2_EQ_0.exe
+C:\Users\Galek\source\repos\APS_2026_1_U2_EQ_0\APS_2026_1_U2_EQ_0\bin\Debug\APS_2026_1_U2_EQ_0.pdb
+C:\Users\Galek\source\repos\APS_2026_1_U2_EQ_0\APS_2026_1_U2_EQ_0\obj\Debug\APS_2026_1_U2_EQ_0.csproj.AssemblyReference.cache
+C:\Users\Galek\source\repos\APS_2026_1_U2_EQ_0\APS_2026_1_U2_EQ_0\obj\Debug\APS_2026_1_U2_EQ_0.Form1.resources
+C:\Users\Galek\source\repos\APS_2026_1_U2_EQ_0\APS_2026_1_U2_EQ_0\obj\Debug\APS_2026_1_U2_EQ_0.Properties.Resources.resources
+C:\Users\Galek\source\repos\APS_2026_1_U2_EQ_0\APS_2026_1_U2_EQ_0\obj\Debug\APS_2026_1_U2_EQ_0.csproj.GenerateResource.cache
+C:\Users\Galek\source\repos\APS_2026_1_U2_EQ_0\APS_2026_1_U2_EQ_0\obj\Debug\APS_2026_1_U2_EQ_0.csproj.CoreCompileInputs.cache
+C:\Users\Galek\source\repos\APS_2026_1_U2_EQ_0\APS_2026_1_U2_EQ_0\obj\Debug\APS_2026_1_U2_EQ_0.exe
+C:\Users\Galek\source\repos\APS_2026_1_U2_EQ_0\APS_2026_1_U2_EQ_0\obj\Debug\APS_2026_1_U2_EQ_0.pdb
+C:\Users\Galek\source\repos\APS_2026_1_U2_EQ_0\APS_2026_1_U2_EQ_0\obj\Debug\APS_2026_1_U2_EQ_0.exe.config
