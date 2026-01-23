@@ -46,6 +46,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Class_Definitions\GatoNuevo1.cs" />
     <Compile Include="Class_Definitions\Gato.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
