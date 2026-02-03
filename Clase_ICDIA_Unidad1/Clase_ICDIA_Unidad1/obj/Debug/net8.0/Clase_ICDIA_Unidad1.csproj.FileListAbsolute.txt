@@ -1,0 +1,14 @@
+/Users/alejandrogarciaruiz/Desktop/Clase_ICDIA/Clase_ICDIA_Unidad1/Clase_ICDIA_Unidad1/bin/Debug/net8.0/Clase_ICDIA_Unidad1
+/Users/alejandrogarciaruiz/Desktop/Clase_ICDIA/Clase_ICDIA_Unidad1/Clase_ICDIA_Unidad1/bin/Debug/net8.0/Clase_ICDIA_Unidad1.deps.json
+/Users/alejandrogarciaruiz/Desktop/Clase_ICDIA/Clase_ICDIA_Unidad1/Clase_ICDIA_Unidad1/bin/Debug/net8.0/Clase_ICDIA_Unidad1.runtimeconfig.json
+/Users/alejandrogarciaruiz/Desktop/Clase_ICDIA/Clase_ICDIA_Unidad1/Clase_ICDIA_Unidad1/bin/Debug/net8.0/Clase_ICDIA_Unidad1.dll
+/Users/alejandrogarciaruiz/Desktop/Clase_ICDIA/Clase_ICDIA_Unidad1/Clase_ICDIA_Unidad1/bin/Debug/net8.0/Clase_ICDIA_Unidad1.pdb
+/Users/alejandrogarciaruiz/Desktop/Clase_ICDIA/Clase_ICDIA_Unidad1/Clase_ICDIA_Unidad1/obj/Debug/net8.0/Clase_ICDIA_Unidad1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alejandrogarciaruiz/Desktop/Clase_ICDIA/Clase_ICDIA_Unidad1/Clase_ICDIA_Unidad1/obj/Debug/net8.0/Clase_ICDIA_Unidad1.AssemblyInfoInputs.cache
+/Users/alejandrogarciaruiz/Desktop/Clase_ICDIA/Clase_ICDIA_Unidad1/Clase_ICDIA_Unidad1/obj/Debug/net8.0/Clase_ICDIA_Unidad1.AssemblyInfo.cs
+/Users/alejandrogarciaruiz/Desktop/Clase_ICDIA/Clase_ICDIA_Unidad1/Clase_ICDIA_Unidad1/obj/Debug/net8.0/Clase_ICDIA_Unidad1.csproj.CoreCompileInputs.cache
+/Users/alejandrogarciaruiz/Desktop/Clase_ICDIA/Clase_ICDIA_Unidad1/Clase_ICDIA_Unidad1/obj/Debug/net8.0/Clase_ICDIA_Unidad1.dll
+/Users/alejandrogarciaruiz/Desktop/Clase_ICDIA/Clase_ICDIA_Unidad1/Clase_ICDIA_Unidad1/obj/Debug/net8.0/refint/Clase_ICDIA_Unidad1.dll
+/Users/alejandrogarciaruiz/Desktop/Clase_ICDIA/Clase_ICDIA_Unidad1/Clase_ICDIA_Unidad1/obj/Debug/net8.0/Clase_ICDIA_Unidad1.pdb
+/Users/alejandrogarciaruiz/Desktop/Clase_ICDIA/Clase_ICDIA_Unidad1/Clase_ICDIA_Unidad1/obj/Debug/net8.0/Clase_ICDIA_Unidad1.genruntimeconfig.cache
+/Users/alejandrogarciaruiz/Desktop/Clase_ICDIA/Clase_ICDIA_Unidad1/Clase_ICDIA_Unidad1/obj/Debug/net8.0/ref/Clase_ICDIA_Unidad1.dll
