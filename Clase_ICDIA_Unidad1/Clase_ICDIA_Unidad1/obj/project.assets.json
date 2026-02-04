@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/alejandrogarciaruiz/Desktop/Clase_ICDIA/Clase_ICDIA_Unidad1/Clase_ICDIA_Unidad1/Clase_ICDIA_Unidad1.csproj",
+      "projectUniqueName": "/Users/alejandrogarciaruiz/Documents/GitHub/APS_2026_1_U2_EQ_0/Clase_ICDIA_Unidad1/Clase_ICDIA_Unidad1/Clase_ICDIA_Unidad1.csproj",
       "projectName": "Clase_ICDIA_Unidad1",
-      "projectPath": "/Users/alejandrogarciaruiz/Desktop/Clase_ICDIA/Clase_ICDIA_Unidad1/Clase_ICDIA_Unidad1/Clase_ICDIA_Unidad1.csproj",
+      "projectPath": "/Users/alejandrogarciaruiz/Documents/GitHub/APS_2026_1_U2_EQ_0/Clase_ICDIA_Unidad1/Clase_ICDIA_Unidad1/Clase_ICDIA_Unidad1.csproj",
       "packagesPath": "/Users/alejandrogarciaruiz/.nuget/packages/",
-      "outputPath": "/Users/alejandrogarciaruiz/Desktop/Clase_ICDIA/Clase_ICDIA_Unidad1/Clase_ICDIA_Unidad1/obj/",
+      "outputPath": "/Users/alejandrogarciaruiz/Documents/GitHub/APS_2026_1_U2_EQ_0/Clase_ICDIA_Unidad1/Clase_ICDIA_Unidad1/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/alejandrogarciaruiz/.nuget/NuGet/NuGet.Config"
