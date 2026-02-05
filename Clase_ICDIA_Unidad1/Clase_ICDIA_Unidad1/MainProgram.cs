@@ -4,8 +4,9 @@ public class MainProgram
 {
     public static void Main(string[] args)
     {
-        //Program1 program1 = new Program1();
-        //Program2 program2 = new Program2();
-        Program3 program3 = new Program3();
+        //Program1 program = new Program1();
+        //Program2 program = new Program2();
+        //Program3 program = new Program3();
+        Program4 program = new Program4();
     }
 }

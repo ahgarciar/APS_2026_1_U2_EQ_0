@@ -21,4 +21,14 @@ public class Alumno
         set => matricula = value;
     }
 
+    public string ToString()
+    {
+        string cad = " Nombre: "+nombre +
+                     "\n Matricula: "+matricula +
+                     "\n Promedio: "+promedio;
+
+        return cad;
+    }
+
+
 }
