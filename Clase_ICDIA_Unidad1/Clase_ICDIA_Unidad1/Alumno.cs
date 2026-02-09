@@ -27,13 +27,22 @@ public class Alumno : IEquatable<Alumno>
         set => matricula = value;
     }
     
+    public string Nombre
+    {
+        get => nombre; 
+        set => nombre = value;
+    }
+
+    
     public bool Equals(Alumno? other)
     {
         return this.matricula.Equals(other.Matricula);
     }
+    //Pendiente analizar el uso de: GetHashCode y Equals(object?) de object ***
+    // --> string hash por: StringComparer.Ordinal.GetHashCode(matricula)
     
-
-    public string ToString()
+    
+    public override string ToString()
     {
         string cad = " Nombre: "+nombre +
                      "\n Matricula: "+matricula +

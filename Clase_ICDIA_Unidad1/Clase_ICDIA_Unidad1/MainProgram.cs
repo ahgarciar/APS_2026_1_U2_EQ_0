@@ -8,6 +8,7 @@ public class MainProgram
         //Program2 program = new Program2();
         //Program3 program = new Program3();
         //Program4 program = new Program4();
-        Program5 program = new Program5();
+        //Program5 program = new Program5();
+        Program6Full program = new Program6Full();
     }
 }
