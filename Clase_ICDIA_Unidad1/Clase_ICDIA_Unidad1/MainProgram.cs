@@ -1,3 +1,4 @@
+using Clase_ICDIA_Unidad1.EjemploAlumnos;
 using Clase_ICDIA_Unidad1.EjemploMascotas;
 using Clase_ICDIA_Unidad1.EjemploPersona;
 using Clase_ICDIA_Unidad1.NumComplejos;
@@ -13,6 +14,7 @@ public class MainProgram
         //ProgramOpAritmetica program = new ProgramOpAritmetica();
         //ProgramOpNumComplejos programa = new ProgramOpNumComplejos();
         //ProgramMascotas programa  = new ProgramMascotas();
-        GestionPersonas programa = new GestionPersonas();
+        //GestionPersonas programa = new GestionPersonas();
+        ProgramAlumno programa = new ProgramAlumno();
     }
 }
