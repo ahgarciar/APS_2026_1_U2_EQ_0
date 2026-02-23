@@ -44,8 +44,7 @@ public class Alumno: IEquatable<Alumno>
         get => promedio;
         set => promedio = value;
     }
-
-
+    
     public bool Equals(Alumno? other)
     {
         throw new NotImplementedException();

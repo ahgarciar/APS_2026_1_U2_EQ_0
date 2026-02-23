@@ -3,6 +3,7 @@ using Clase_ICDIA_Unidad1.EjemploMascotas;
 using Clase_ICDIA_Unidad1.EjemploPersona;
 using Clase_ICDIA_Unidad1.NumComplejos;
 using Clase_ICDIA_Unidad1.OpBasicas;
+using Clase_ICDIA_Unidad1.P8_Carros;
 
 namespace Clase_ICDIA_Unidad1;
 
@@ -15,6 +16,9 @@ public class MainProgram
         //ProgramOpNumComplejos programa = new ProgramOpNumComplejos();
         //ProgramMascotas programa  = new ProgramMascotas();
         //GestionPersonas programa = new GestionPersonas();
-        ProgramAlumno programa = new ProgramAlumno();
+        //ProgramAlumno programa = new ProgramAlumno();
+        
+        LogicaCarro programa = new LogicaCarro();
+        
     }
 }
