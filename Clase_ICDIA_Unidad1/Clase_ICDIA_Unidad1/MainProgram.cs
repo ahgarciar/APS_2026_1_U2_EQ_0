@@ -4,6 +4,7 @@ using Clase_ICDIA_Unidad1.EjemploPersona;
 using Clase_ICDIA_Unidad1.NumComplejos;
 using Clase_ICDIA_Unidad1.OpBasicas;
 using Clase_ICDIA_Unidad1.P8_Carros;
+using Clase_ICDIA_Unidad1.P9_IntroHerencia;
 
 namespace Clase_ICDIA_Unidad1;
 
@@ -18,7 +19,10 @@ public class MainProgram
         //GestionPersonas programa = new GestionPersonas();
         //ProgramAlumno programa = new ProgramAlumno();
         
-        LogicaCarro programa = new LogicaCarro();
+        //LogicaCarro programa = new LogicaCarro();
+        //LogicaCarroV2 programa = new LogicaCarroV2();
+        
+        LogicaAlumno programa = new LogicaAlumno();
         
     }
 }
