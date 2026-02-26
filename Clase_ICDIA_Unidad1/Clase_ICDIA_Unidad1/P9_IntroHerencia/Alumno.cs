@@ -9,14 +9,14 @@ public class Alumno : Persona
         
     }
 
-    /*
+    
     public override void Saludar()
     {
         Console.WriteLine(
             "Hola! mi nombre es " 
             + Nombre);
     }
-    */
+    
 
     public override string ToString()
     {

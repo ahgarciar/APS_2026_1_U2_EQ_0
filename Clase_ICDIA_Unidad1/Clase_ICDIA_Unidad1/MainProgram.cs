@@ -3,6 +3,7 @@ using Clase_ICDIA_Unidad1.EjemploMascotas;
 using Clase_ICDIA_Unidad1.EjemploPersona;
 using Clase_ICDIA_Unidad1.NumComplejos;
 using Clase_ICDIA_Unidad1.OpBasicas;
+using Clase_ICDIA_Unidad1.P10_CarrosHerencia;
 using Clase_ICDIA_Unidad1.P8_Carros;
 using Clase_ICDIA_Unidad1.P9_IntroHerencia;
 
@@ -22,7 +23,9 @@ public class MainProgram
         //LogicaCarro programa = new LogicaCarro();
         //LogicaCarroV2 programa = new LogicaCarroV2();
         
-        LogicaAlumno programa = new LogicaAlumno();
-        
+        //LogicaAlumno programa = new LogicaAlumno();
+
+        LogicaCarroHerencia programa = new LogicaCarroHerencia();
+
     }
 }

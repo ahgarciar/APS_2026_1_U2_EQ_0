@@ -20,7 +20,8 @@ public class Persona
         set => nombre = value;
     }
 
-    public void Saludar()
+    public virtual void Saludar()
     {
+        Console.WriteLine("Saludo como persona!");
     }
 }
